@@ -7,20 +7,20 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.Owner = ['2250556933397']
+global.OwnerNumber = ['2250556933397']
+global.ownertag = ['2250556933397']
+global.BotName = "𝙆𝙄𝙇𝙇𝙐𝘼_𝙓𝘿-𝘽𝙊𝙏"
+global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 ♣ 𝘿𝘼𝙀𝙈𝙊𝙉"
+global.author = ""
+global.OwnerName = "𝘿𝘼𝙍𝙆 𝙆𝙄𝙇𝙇𝙐𝘼"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['-'] 
+global.prefa = ['.'] 
 
 
 global.location = "West Bengal, India"
